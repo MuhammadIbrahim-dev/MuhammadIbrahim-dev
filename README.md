@@ -55,9 +55,7 @@ I am always open to collaborating on interesting projects. If you would like to 
 - [Email](mailto:muhmmadibrahimmughal35@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-dev)
 - [Twitter](https://x.com/Muhammadib54916)
-- [watsapp](03454277217)
-- [facebook](https://www.facebook.com/Muhammadibrahimdev)
-- [instagram](https://www.instagram.com/ibrahim_dev_)
+- [youtbe](https://www.youtube.com/@Ibrahimdeveloper)
 
 ## 📚 My Learning Journey
 I am committed to continuous learning and improvement. Here are some resources I am currently exploring:
@@ -75,5 +73,9 @@ Feel free to reach out to me via the following links:
 - [Email](mailto:muhmmadibrahimmughal35@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-dev)
 - [Twitter](https://x.com/Muhammadib54916)
+- - [watsapp](03454277217)
+- [facebook](https://www.facebook.com/Muhammadibrahimdev)
+- [instagram](https://www.instagram.com/ibrahim_dev_)
+
 
 Thank you for visiting my profile!
