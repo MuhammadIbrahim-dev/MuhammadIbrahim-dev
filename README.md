@@ -32,7 +32,7 @@ I enjoy working with a variety of technologies and tools, including:
 - React
 - React Native
 - Node.js
-- Express
+- monoDB
 
 ### Tools & Platforms
 - Git
