@@ -30,8 +30,8 @@ I enjoy working with a variety of technologies and tools, including:
 
 ### Frameworks & Libraries
 - React
-- React Native
 - Node.js
+- express js
 - monoDB
 
 ### Tools & Platforms
