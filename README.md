@@ -14,8 +14,8 @@ I am currently focused on enhancing my skills in **React JS** and developing pro
 I am actively learning 
 - **React JS**
 - **JavaScript**
-- ** Typescript**
-- ** Nodejs**
+- **Typescript**
+- **Nodejs**
 - **JavaScript Frameworks**
 - **Mobile App Development (React Native)**
 
