@@ -74,8 +74,8 @@ Feel free to reach out to me via the following links:
 
 - [Email](mailto:muhmmadibrahimmughal35@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-dev)
-- [Twitter](https://x.com/Muhammadib54916)
-- - [watsapp](03454277217)
+- [Twitter](https://x.com/MIbrahimdev217?t=fQo2vEzCXZYoV9ZlMZIDBA&s=09 )
+- - [watsapp](https://wa.me/qr/PUW2HPZBI6INB1 )
 - [facebook](https://www.facebook.com/Muhammadibrahimdev)
 - [instagram](https://www.instagram.com/ibrahim_dev_)
 
