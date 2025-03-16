@@ -54,10 +54,10 @@ Feel free to explore my repositories and contribute to any of them!
 ## 🤝 Collaboration
 I am always open to collaborating on interesting projects. If you would like to work together, please reach out to me through the following channels:
 
-- [Email](mailto:muhmmadibrahimmughal35@gmail.com)
+- [Email](mailto:muhammadibrahimmughal35@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-dev)
-- [Twitter](https://x.com/Muhammadib54916)
-- [youtbe](https://www.youtube.com/@Ibrahimdeveloper)
+- [Twitter](https://x.com/MIbrahimdev217?t=fQo2vEzCXZYoV9ZlMZIDBA&s=09)
+- [youtube](https://www.youtube.com/@Ibrahimdeveloper)
 
 ## 📚 My Learning Journey
 I am committed to continuous learning and improvement. Here are some resources I am currently exploring:
@@ -72,7 +72,7 @@ I enjoy tackling complex coding challenges and continuously pushing myself to gr
 ## 📫 Contact Me
 Feel free to reach out to me via the following links:
 
-- [Email](mailto:muhmmadibrahimmughal35@gmail.com)
+- [Email](mailto:muhammadibrahimmughal35@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ibrahim-dev)
 - [Twitter](https://x.com/MIbrahimdev217?t=fQo2vEzCXZYoV9ZlMZIDBA&s=09 )
 - - [watsapp](https://wa.me/qr/PUW2HPZBI6INB1 )
